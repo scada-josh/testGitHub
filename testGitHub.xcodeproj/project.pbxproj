@@ -18,6 +18,7 @@
 		79D9BA48175A5B8C00065996 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 79D9BA47175A5B8C00065996 /* Default-568h@2x.png */; };
 		79D9BA4B175A5B8C00065996 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 79D9BA49175A5B8C00065996 /* MainStoryboard.storyboard */; };
 		79D9BA4E175A5B8C00065996 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D9BA4D175A5B8C00065996 /* ViewController.m */; };
+		79D9BA56175A5C2800065996 /* myViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 79D9BA55175A5C2800065996 /* myViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		79D9BA4A175A5B8C00065996 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		79D9BA4C175A5B8C00065996 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		79D9BA4D175A5B8C00065996 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		79D9BA54175A5C2800065996 /* myViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = myViewController.h; sourceTree = "<group>"; };
+		79D9BA55175A5C2800065996 /* myViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = myViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +90,8 @@
 				79D9BA41175A5B8C00065996 /* AppDelegate.m */,
 				79D9BA49175A5B8C00065996 /* MainStoryboard.storyboard */,
 				79D9BA4C175A5B8C00065996 /* ViewController.h */,
+				79D9BA54175A5C2800065996 /* myViewController.h */,
+				79D9BA55175A5C2800065996 /* myViewController.m */,
 				79D9BA4D175A5B8C00065996 /* ViewController.m */,
 				79D9BA38175A5B8C00065996 /* Supporting Files */,
 			);
@@ -176,6 +181,7 @@
 				79D9BA3E175A5B8C00065996 /* main.m in Sources */,
 				79D9BA42175A5B8C00065996 /* AppDelegate.m in Sources */,
 				79D9BA4E175A5B8C00065996 /* ViewController.m in Sources */,
+				79D9BA56175A5C2800065996 /* myViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
